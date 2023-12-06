@@ -1,0 +1,3 @@
+# Ignore the makefile, GitHub should 
+# recognize this as a C++ project
+*makefile linguist-generated=true
